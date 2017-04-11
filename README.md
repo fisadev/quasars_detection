@@ -2,6 +2,8 @@
 
 Code for the quasars detection talk with python/keras neural networks
 
+Talk slides [here](https://github.com/fisadev/talks/tree/master/keras-neural-networks) (it's the ``keras-neural-networks-fof-edition.ipynb`` notebook)
+
 Usage:
 
 # Install requirements:
